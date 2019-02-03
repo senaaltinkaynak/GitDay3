@@ -19,7 +19,7 @@ public class LoginTests {
 
             @BeforeClass
             public void setUp(){
-                Locale.setDefault(new Locale("ehbj", "US"));
+                Locale.setDefault(new Locale("en", "US"));
                 WebDriverManager.chromedriver().setup();
                 driver = new ChromeDriver();
                 driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);

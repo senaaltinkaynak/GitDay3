@@ -1,6 +1,8 @@
 .idea/
 GitDay3.iml
 target/
+bash.exe.stackdump
+
 # Eclipse
 .classpath
 .project

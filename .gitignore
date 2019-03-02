@@ -19,3 +19,6 @@ bash.exe.stackdump
 # Maven
 log/
 target/
+
+#Some new changes
+SomeFolder/

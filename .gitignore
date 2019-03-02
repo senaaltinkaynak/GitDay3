@@ -20,4 +20,8 @@ bash.exe.stackdump
 log/
 target/
 
+
 # Branch rule test
+
+#Some new changes
+SomeFolder/

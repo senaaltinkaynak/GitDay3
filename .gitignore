@@ -19,3 +19,5 @@ bash.exe.stackdump
 # Maven
 log/
 target/
+
+# Branch rule test

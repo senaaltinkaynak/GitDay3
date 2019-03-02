@@ -14,7 +14,8 @@ import org.testng.annotations.Test;
 
 import java.util.Locale;
 import java.util.concurrent.TimeUnit;
-
+//Login tests are maintained here.
+//without Page object approach
 public class LoginTests {
             WebDriver driver;
 
